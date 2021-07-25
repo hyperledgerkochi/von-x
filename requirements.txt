@@ -2,7 +2,7 @@ aiohttp~=3.4.0
 aiohttp_cors~=0.7.0
 aiohttp_jinja2~=1.0.0
 PyYAML>=3.12
-networkx>=2.2,<3
+networkx>=2.6,<3
 
 
 # part of von-image
