@@ -9,3 +9,4 @@ networkx>=2.2,<3
 #python3-indy==1.7.0
 #didauth==1.2.3
 #von-anchor==1.7.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
